@@ -1,2 +1,3 @@
 # AndroidSQLiteSample
-Android SQLite programming samples.
+
+This sample is the better class design for SQLite Database accessing.
